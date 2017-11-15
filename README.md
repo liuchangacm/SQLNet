@@ -4,7 +4,11 @@ This repo provides an implementation of SQLNet and Seq2SQL neural networks for p
 
 ## Citation
 
-> Xiaojun Xu, Chang Liu, Dawn Song. 2017. SQLNet: Generating Structured Queries from Natural Language Without Reinforcement Learning.
+> Xiaojun Xu, Chang Liu, Dawn Song. 2017. SQLNet: Generating Structured Queries from Natural Language Without Reinforcement Learning. 
+
+## Paper Download
+
+[arXiv](https://arxiv.org/abs/1711.04436)
 
 ## Bibtex
 
@@ -13,9 +17,11 @@ This repo provides an implementation of SQLNet and Seq2SQL neural networks for p
   author    = {Xiaojun Xu and
                Chang Liu and
                Dawn Song},
+  journal   = {CoRR},
+  volume    = {abs/1711.04436},
   title     = {SQLNet: Generating Structured Queries from Natural Language Without
                Reinforcement Learning},
-  year      = {2017},
+  year      = {2017}
 }
 ```
 
